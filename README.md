@@ -1,0 +1,1 @@
+Superceded by cv_robot_pick_place
